@@ -1,0 +1,46 @@
+
+
+        private void btnSomar_Click(object sender, EventArgs e)
+        {
+            int n1, n2, resultado;
+            n1 = int.Parse(txtNumeroUm.Text);
+            n2 = int.Parse(txtNumeroDois.Text);
+
+            resultado = n1 + n2;
+
+            MessageBox.Show(resultado.ToString());
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int n1, n2, resultado;
+            n1 = int.Parse(txtNumeroUm.Text);
+            n2 = int.Parse(txtNumeroDois.Text);
+            resultado = n1 - n2;
+
+            MessageBox.Show(resultado.ToString());
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+           
+            int n1, n2, resultado;
+            n1 = int.Parse(txtNumeroUm.Text);
+            n2 = int.Parse(txtNumeroDois.Text);
+            resultado = n1 * n2;
+
+            MessageBox.Show(resultado.ToString());
+        }
+
+        private void txtNumeroDois_TextChanged(object sender, EventArgs e)
+        {
+       
+            int n1, n2, resultado;
+            n1 = int.Parse(txtNumeroUm.Text);
+            n2 = int.Parse(txtNumeroDois.Text);
+            resultado = n1 / n2;
+
+            MessageBox.Show(resultado.ToString());
+        }
+    }
+}

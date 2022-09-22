@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+<meta charset= "Utf-8">
+<title> TESTE IMAGENS</TITLE>
+<style>
+body{
+padding: 0px;
+margin: 0px;
+
+
+background-color:#ffcce0;
+font-family: 'DynaPuff', cursive;
+Color:#7575a3;
+font-size:50px;
+
+}
+
+</style>
+</head>
+
+<body>
+<img src="banner.png" width="100%">
+<h1> OLÁ MUNDO!<br> HELLO WORLD<h1>
+<img src="imagemZ.png" width="40%">
+<img src="tanjiro.gift">
+</body>
+</html>

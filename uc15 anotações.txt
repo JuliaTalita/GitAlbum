@@ -1,0 +1,12 @@
+ uc15
+
+primeira pagina salavar como INDEX.HTML - tem que ser alva aasim ese
+arquivo 
+
+<p>- paragrafo fixa um paragrafo 
+<h1>- titulo 
+<h2> - subtitulo 
+<img src=""(propriedade)
+
+
+https://lyricscosmeticos.com.br/skincare/
